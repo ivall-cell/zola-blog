@@ -1,5 +1,5 @@
 # Base URL of the site, the only required config argument
-base_url = "https://spicyvall.github.io/zola-blog/"
+base_url = "https://spicyvall.github.io/"
 
 # Used in RSS by default
 title = "Tom thinks..."
